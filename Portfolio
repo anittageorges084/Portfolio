@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content=
+        "width=device-width, initial-scale=1.0">
+    <title>HTML ASSIGNMENT</title>
+</head>
+
+<body>
+    <!--Header(start)-->
+    <table id="header" border="0" width="100%"
+        cellpadding="0" cellspacing="0" >
+        <tr>
+            <td>
+                <table border="0" cellpadding="15"
+                    cellspacing="0" width="90%" align="center">
+                    <tr>
+                        <td>
+                            
+
+                        </td>
+
+                        
+
+                        <td>
+                            <a href="#home">
+                               
+                                    Home
+                                
+                            </a>
+                        </td>
+
+                        <td>
+                            |
+                        </td>
+
+                        <td>
+                            <a href="#about">
+                              
+                                    About
+                               
+                            </a>
+                        </td>
+
+                        
+
+                        <td>
+                            |
+                        </td>
+
+                        <td>
+                            <a href="#contact">
+                               
+                                    Contact
+                                
+                            </a>
+                        </td>
+                        <td>
+                            |
+                        </td>
+
+
+                        <td>
+                            <a href="#achievements" >
+                                
+                                    Achievements
+                                
+                            </a>
+                        </td>
+                        <td>
+                            |
+                        </td>
+
+
+                        <td>
+                            <a href="#photogallary" >
+                                
+                                Gallery
+                                
+                            </a>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <!--Header(end)--> 
+    <table id="home" border="1" width="100%"
+       
+                     <tr>
+                        <td align="center" valign="middle">
+                            <h3>
+                                
+                             Hi There!
+                                
+                            </h3>
+
+        
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <!--Home(end)-->
+    
+<!--About(start)-->
+<table id="about" border="0" width="100%"
+cellpadding="0" cellspacing="0" >
+<tr>
+    <td>
+        <table border="0" cellpadding="15"
+            cellspacing="0" width="80%" align="center">
+            <tr>
+                <td height="180" align="center"
+                    valign="middle" colspan="2">
+                   
+                       
+                        ABOUT ME
+                  
+                   
+                </td>
+            </tr>
+
+            <tr>
+                
+
+                <td width="60%">
+                    
+                        Thanks for your interest, here
+                        is a quick story of me and this
+                        website.
+                      
+                        I'm Anitta George a computer science engineering student studying at 
+                        St.Joseph's college of engineering and technology,Palai.
+                        
+                        I completed my schooling from Fr.Thomas Porukara Central School,Champakulam.
+                        I have technical knowledge in C,SQL and JAVA.
+                        My hobbies are listening to music and reading books.
+                 
+
+                        This website is basically one of my
+                        Web Development project which is
+                        built using HTML only.
+
+                        Thanks again for reading this,
+                        because of people like you, it
+                        exists and prospers!
+                      
+                        
+                        <br>
+                        
+                   
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>
+</table>
+<!--Achievement(start)-->
+<table id="achievements" border="0" width="100%"
+    cellpadding="0" cellspacing="0">
+    <tr>
+        <td>
+            <table border="0" cellpadding="15"
+                cellspacing="0" width="80%" align="center">
+                <tr>
+                    <td height="180" align="center" valign="middle">
+                       
+                           ACHIEVEMENTS
+                            
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        
+                            <ul>
+                                <li>
+                                    <b>Completed and Awarded Google Online Certification On 
+                                        Fundamentals of Digital Marketing </b>
+                                    <ul>
+                                        <li>
+                                            Conducted by Google Digital Unlocked
+                                        </li>
+                                        <li>
+                                            On March 2021
+                                        </li>
+                                    
+                                    </ul>
+                                </li>
+
+                                <li>
+                                    
+                                    <b>Completed and Awarded the final Exam On Java 
+                                        Programming </b>
+                                    <ul>
+                                        <li>
+                                            conducted by ORACLE Academy
+                                        </li>
+                                        <li>
+                                            On 12th June 2021
+                                        </li>
+                                        
+                                    </ul>
+                                </li>
+
+                                
+                            </ul>
+
+                       
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<!--Achievement(end)-->
+
+<!--Contact(start)-->
+<table id="contact" border="0" width="100%"
+cellpadding="0" cellspacing="0">
+<tr>
+    <td>
+        <table border="0" cellpadding="15"
+            cellspacing="0" width="80%" align="center">
+            <tr>
+                <td height="180" align="center"
+                    valign="middle" colspan="2">
+                    
+                        CONTACT ME
+                </td>
+            </tr>
+
+            <tr>
+                <td align="center" valign="top">
+                    <table border="0" width="50%" cellpadding="15"
+                        cellspacing="0" align="center">
+                        <tr>
+                            <td width="30%">
+                                
+                                    Name
+                            
+                            </td>
+                            <td width="70%">
+            
+                                    <input type="text" size="40">
+                             
+                            </td>
+                        </tr>
+                        <tr>
+                            <td width="30%">
+                            
+                                    Email
+                            
+                            </td>
+                            <td width="70%">
+                              
+                                    <input type="email" size="40">
+                            
+                            </td>
+                        </tr>
+                        <tr>
+                            <td width="30%">
+                                
+                                   Mobile Number
+                             
+                            </td>
+                            <td width="70%">
+                             
+                                    <input type="number" size="12">
+                     
+                            </td>
+                        </tr>
+                        <tr>
+                            <td width="30%">
+                            
+                                    Message
+                            
+                            </td>
+                            <td width="70%">
+                               
+                                    <textarea rows="5"
+                                        cols="37">
+                                    </textarea>
+                        
+                            </td>
+                        </tr>
+                        <tr>
+                            <td width="30%">
+                                
+                            </td>
+                            <td width="70%">
+                                <button type="Submit">
+                                    
+                                        <b>Submit</b>
+                        
+                                </button>
+        
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+
+            </tr>
+          
+        </table>
+    </td>
+</tr>
+</table>
+<!--Contact(end)-->
+
+!--Achievement(start)-->
+<table id="achievements" border="0" width="100%"
+    cellpadding="0" cellspacing="0">
+    <tr>
+        <td>
+            <table border="0" cellpadding="15"
+                cellspacing="0" width="80%" align="center">
+                <tr>
+                    <td height="180" align="center" valign="middle">
+                       
+                           ACHIEVEMENTS
+                            
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        
+                            <ul>
+                                <li>
+                                    <b>Completed and Awarded Google Online Certification On 
+                                        Fundamentals of Digital Marketing </b>
+                                    <ul>
+                                        <li>
+                                            Conducted by Google Digital Unlocked
+                                        </li>
+                                        <li>
+                                            On March 2021
+                                        </li>
+                                    
+                                    </ul>
+                                </li>
+
+                                <li>
+                                    
+                                    <b>Completed and Awarded the final Exam On Java 
+                                        Programming </b>
+                                    <ul>
+                                        <li>
+                                            conducted by ORACLE Academy
+                                        </li>
+                                        <li>
+                                            On 12th June 2021
+                                        </li>
+                                        
+                                    </ul>
+                                </li>
+
+                                
+                            </ul>
+
+                       
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<!--Achievement(end)-->
